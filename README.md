@@ -9,7 +9,7 @@
   - [License](#license)
     
   ## Description 
-  This app is used so you can type in various notes and organize your life.
+  This app is used so you can type in various notes and organize your todos or if you have a busy lifestyle.
 
   ## Usage 
   Click the 'Get Started button then type in a note title and description of your choice. You can click the pencil icon to create a new note or the red trash icon next you your already created note.'
